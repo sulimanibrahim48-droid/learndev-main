@@ -22,6 +22,17 @@ export const htmlTutorials: Tutorial[] = [
   }
   ,
   {
+    id: "html-1",
+    title: "HTML Full Course - Build a Website Tutorial",
+    thumbnail: "https://img.youtube.com/vi/pQN-pnXPaVg/maxresdefault.jpg",
+    duration: "2:02:31",
+    views: "15M views",
+    channel: "freeCodeCamp.org",
+    youtubeUrl: "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+    category: "HTML"
+  }
+  ,
+  {
     id: "html-2",
     title: "HTML Tutorial for Beginners: HTML Crash Course",
     thumbnail: "https://img.youtube.com/vi/qz0aGYrrlhU/maxresdefault.jpg",
