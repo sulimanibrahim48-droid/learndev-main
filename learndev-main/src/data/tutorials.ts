@@ -198,11 +198,21 @@ export const az900Tutorials: Tutorial[] = [
     category: "AZ-900"
   },
   {
+    id: "az900-4",
+    title: "AZ900 Azure Fundamentals Course in Arabic",
+    thumbnail: "https://img.youtube.com/vi/NbHXxviMn88/maxresdefault.jpg",
+    duration: "3:44",
+    views: "3.2K views",
+    channel: "The Cloud Warrior",
+    youtubeUrl: "https://www.youtube.com/watch?v=NbHXxviMn88&list=PLWrQ4RB52oUogSoGe7ZLSuBcLFmwdpgQo",
+    category: "AZ-900"
+  },
+  {
     id: "az900-2",
     title: "AZ-900 Azure Fundamentals Study Cram",
     thumbnail: "https://img.youtube.com/vi/tQp1YkB2Tgs/maxresdefault.jpg",
     duration: "2:56:18",
-    views: "1.5M views",
+    views: "2.5M views",
     channel: "John Savill's Technical Training",
     youtubeUrl: "https://www.youtube.com/watch?v=tQp1YkB2Tgs",
     category: "AZ-900"
@@ -217,16 +227,7 @@ export const az900Tutorials: Tutorial[] = [
     youtubeUrl: "https://www.youtube.com/watch?v=5abffC-K40c",
     category: "AZ-900"
   },
-  {
-    id: "az900-4",
-    title: "AZ900 Azure Fundamentals Course in Arabic",
-    thumbnail: "https://img.youtube.com/vi/NbHXxviMn88/maxresdefault.jpg",
-    duration: "3:44",
-    views: "3.2K views",
-    channel: "The Cloud Warrior",
-    youtubeUrl: "https://www.youtube.com/watch?v=NbHXxviMn88&list=PLWrQ4RB52oUogSoGe7ZLSuBcLFmwdpgQo",
-    category: "AZ-900"
-  }
+
 ];
 
 export const az104Tutorials: Tutorial[] = [
